@@ -19,6 +19,8 @@ class Cartproduct extends StatelessWidget {
               children: [
                 CartProduct(),
                 CartProduct(),
+                CartProduct(),
+                CartProduct()
               ],
             ),
           ),
